@@ -1,0 +1,32 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(113, 156, 154);
+}
+
+table,tr,td,th  {
+    border: 1px solid black;
+  }
+.tab {
+    width: 40vw;
+    background-color: white;
+}
+.tr1 {
+text-align: center;
+text-decoration:none ;
+}
+
+.input {
+    width: 80%;
+    height: 13px;
+    border: gray solid 0.8px ;
+    background-color: transparent;
+    margin-left:3% ;
+
+}
+
+.input-diachi {
+    height: 26px;
+    flex: 3;
+}
